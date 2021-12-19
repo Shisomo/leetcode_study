@@ -1,2 +1,6 @@
 # leetcode_study
-study...
+
+- coding by golang
+- Record the learning process
+
+
