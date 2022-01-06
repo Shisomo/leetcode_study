@@ -1,3 +1,3 @@
-module 0001_Two-Sum
+module 0002
 
 go 1.17
