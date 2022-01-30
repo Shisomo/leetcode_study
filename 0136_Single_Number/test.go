@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	data := []int{2, 3, 5, 13, 15, 24, 33, 44, 53}
